@@ -1,6 +1,6 @@
 # Air Monitor - a project for Big Data laboratory
 
-Project for monitoring air quality in Warsaw using [ACQIN](https://aqicn.org/map/world/) API.
+Project for monitoring air quality in Warsaw using [AQICN](https://aqicn.org/map/world/) API.
 
 **Contents**
 - `startup.sh` - config script
