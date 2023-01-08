@@ -1,4 +1,5 @@
 # Air Monitor - a project for Big Data laboratory
+*Authors: Mateusz Krzyzinski, Mikołaj Spytek, Paweł Wojciechowski*
 
 Project for monitoring air quality in Warsaw using [AQICN](https://aqicn.org/map/world/) API.
 
